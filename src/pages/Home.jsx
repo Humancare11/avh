@@ -532,8 +532,8 @@ const Footer = () => {
             <div className="footer__col">
               <h4>Contact</h4>
               <ul className="footer__contact-list">
-                <li><Icon name="phone" size={14} />+91 98765 43210</li>
-                <li><Icon name="mail" size={14} />info@avhrsolutions.com</li>
+                <li><Icon name="phone" size={14} />+919890333506</li>
+                <li><Icon name="mail" size={14} />avhrsolutions.india@gmail.com</li>
                 <li><Icon name="mapPin" size={14} />Mumbai, Maharashtra</li>
               </ul>
             </div>
